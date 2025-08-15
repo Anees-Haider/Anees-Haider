@@ -1,14 +1,14 @@
 # 💫 Hi 👋, I'm Anees Haider
 A passionate AI Engineer || Django/FastApi || Langchain
 
-Email Me 👉 ✉️ **aneeshaider923@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **bsf23005953@ue.edu.pk** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** Finetuning Deepseek for Medical chatbot
 - 🌱 **I’m currently learning:** Langraph and CREW ai
 - 👯 **I’m looking to collaborate on:** LLM finetuning Projects
 - 🤔 **I’m looking for help with:** Finding opportunities
 - 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** aneeshaider923@gmail.com
+- 📫 **How to reach me:** bsf23005953@ue.edu.pk
 - 😄 **Pronouns:** He/Him
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
